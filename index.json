@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "sphinx_celery",
+  "versions": [
+    {
+      "commit": "715a76ddbb8da0e953496419c3c38ea513cc774f",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:04:12.697187+00:00"
+    }
+  ]
+}
