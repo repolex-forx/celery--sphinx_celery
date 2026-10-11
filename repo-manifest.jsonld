@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/celery/sphinx_celery/commit/715a76ddbb8da0e953496419c3c38ea513cc774f",
       "git:hexsha": "715a76ddbb8da0e953496419c3c38ea513cc774f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T06:04:12.696671+00:00"
     },
     {
       "@id": "https://repolex.ai/r/celery/sphinx_celery/commit/c7e110e84514cf70536ecfb39601493356c3e05a",
